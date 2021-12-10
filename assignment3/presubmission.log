@@ -1,0 +1,8 @@
+Script started on 2021-03-22 10:57:37-06:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="117" LINES="35"]
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455# tar -xf assignment3.tgz
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455# cd assignment3
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment3root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment3# gogui-regress "py Gomoku3.py" assignment3-public-tests.gtp
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment3root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment3# exit
+exit
+
+Script done on 2021-03-22 10:59:23-06:00 [COMMAND_EXIT_CODE="0"]

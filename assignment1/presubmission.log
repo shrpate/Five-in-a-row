@@ -1,0 +1,10 @@
+Script started on 2021-02-01 11:02:11-07:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="116" LINES="35"]
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment1_submissionroot@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment1_submission# tar -xf assignment1.tgz  
+
+[K[A]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment1_submissionroot@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment1_submission# tar -xf assignment1.tgz 
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment1_submissionroot@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment1_submission# cd assignment1
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment1_submission/assignment1root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment1_submission/assignment1# gogui-regress "py Go0.py" assignment1-public-tests.gtp
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment1_submission/assignment1root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment1_submission/assignment1# exit
+exit
+
+Script done on 2021-02-01 11:03:23-07:00 [COMMAND_EXIT_CODE="0"]

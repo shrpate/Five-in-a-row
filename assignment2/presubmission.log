@@ -1,0 +1,9 @@
+Script started on 2021-02-28 22:07:09-07:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="117" LINES="35"]
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment1_submissionroot@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455# tar -xf assignment2.tgz
+[K]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455# tar -xf assignment2.tgz
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455# cd assignment2
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment2root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment2# gogui-regress "py Gomoku.py" assignment2-public-tests.gtp
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment2root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment2# exit
+exit
+
+Script done on 2021-02-28 22:10:24-07:00 [COMMAND_EXIT_CODE="0"]

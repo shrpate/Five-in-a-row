@@ -1,0 +1,55 @@
+Script started on 2021-04-18 10:54:37-06:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="117" LINES="35"]
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455# tar -xf assignment4.tgz
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455# cd assignment4
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment4root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment4# py play.py
+D2
+D5
+F1
+B2
+E7
+C3
+E1
+F2
+B7
+F5
+D4
+E2
+A6
+E3
+A1
+D1
+C7
+D6
+D3
+E6
+B3
+F7
+C6
+C1
+G6
+E5
+B5
+A4
+C4
+A5
+A3
+F4
+G1
+A2
+G2
+G4
+F3
+C2
+C5
+G5
+B6
+G7
+A7
+E4
+D7
+player1 0
+player1 win 1 player2 win 0 timeout 0
+]0;root@ShridharsSurface: /mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment4root@ShridharsSurface:/mnt/c/Users/shrid/OneDrive/Desktop/CMPUT 455/assignment4# exit
+exit
+
+Script done on 2021-04-18 10:59:23-06:00 [COMMAND_EXIT_CODE="0"]
